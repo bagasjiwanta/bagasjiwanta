@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### I'm Bagas
+#### I'm currently learning at Bandung Institute of Technology
+#### You can reach me in instagram : @bagas.jiwanta
+#### I'm currently learning Competitive Programing and Web Development
+#### I'm also interested in GCP
+#### But I'm still new at the game
 
 <!--
 **bagasjiwanta/bagasjiwanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
