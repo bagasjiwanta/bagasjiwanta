@@ -4,10 +4,10 @@
 #### You can reach me in instagram : @bagas.jiwanta
 #### I'm currently learning Competitive Programing and Web Development
 
-# skills :
-# basic python
-# basic cpp
-# basic html and css
+##### skills :
+##### basic python
+##### basic cpp
+##### basic html and css
 
 <!--
 **bagasjiwanta/bagasjiwanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
