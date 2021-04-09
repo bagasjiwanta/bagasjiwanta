@@ -1,13 +1,6 @@
-### Hi there 👋
-#### I'm Bagas
-#### I'm currently learning at Bandung Institute of Technology
-#### You can reach me in instagram : @bagas.jiwanta
-#### I'm currently learning Competitive Programing and Web Development
-
-##### skills :
-##### basic python
-##### basic cpp
-##### basic html and css
+### Bagas Jiwanta
+### Institut Teknologi Bandung / Bandung Institute of Technology 
+### learning webdev and app programming
 
 <!--
 **bagasjiwanta/bagasjiwanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
