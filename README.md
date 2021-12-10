@@ -6,4 +6,4 @@
 ---
 ✨ I'm a frontend web developer, currently learning and using react and bunch of other libraries. 
 
-🌱 I'm currently studying at Bandung Institute of Technology (2020)
+🌱 I'm currently studying at Bandung Institute of Technology (Undergraduate, 2020)
