@@ -1,7 +1,5 @@
-<h3>Hi, I'm Bagas</h3>
+<h3>Hi</h3>
 
-I'm a machine learning - AI enthusiast
+I love machine learning and deep learning.
 
-CS Undergraduate, Bandung Institute of Technology (2025)
-
-Kaggle : https://www.kaggle.com/bagasjiwanta9
+I'm an Information System and Technology Undergraduate at ITB.
