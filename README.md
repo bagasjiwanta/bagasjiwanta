@@ -1,1 +1,2 @@
-i kinda like ML
+I like ML/AI.
+I work at [Traveloka](https://www.traveloka.com/) now.
